@@ -6,7 +6,7 @@ Faizulla Aibek
 
 Baybek Almas
 
-Gorikii Nurbolat 
+Gorikii Nurbolat
 
 The main idea of this concept is to create the first digital film studio in Kazakhstan ever.
 
@@ -24,7 +24,7 @@ This building has six main rooms:
 
 - Soundcheck room
 
-- Lounge room 
+- Lounge room
 
 Thus, we divided our work into three pieces.
 
@@ -36,13 +36,10 @@ Almas: Lounge room, 3D modelling room
 
 Nurbolat: 3D printing room, Render room
 
-Second step: Combining and animation (last steps) 
+Second step: Combining and animation (last steps)
 
 Aibek: Lightning
 
 Almas: Animation
 
 Nurbolat: Combining rooms and render
-
-
-
